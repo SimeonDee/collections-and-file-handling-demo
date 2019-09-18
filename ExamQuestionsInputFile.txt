@@ -1,0 +1,9 @@
+What do you understand by Object Orientation in Programming?
+Differentiate between a class and an Object.
+Mention two major protocols used in Java Socket Programming.
+When is the use of thread necessary in programming?
+Differentiate between variable declaration and object instantiation.
+Define a variable and a constant.
+What do you understand by JDBC?
+Highlight seven (7) rules guiding variable name formation.
+List twelve (12) java operators.
